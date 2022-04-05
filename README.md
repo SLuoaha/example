@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SLuo
+- 👋 Hi, I am a university student
 - 👀 I’m interested in Math
 - 🌱 I’m currently learning Java MVC、Python、machine Learning
 <!-- - 💞️ I’m looking to collaborate on ...
